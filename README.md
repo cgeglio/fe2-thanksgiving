@@ -35,7 +35,7 @@ Some instructions are written very well, others are a bit more confusing to foll
 * [<s>Find numbers which are divisible by given number</s>](https://www.codewars.com/kata/55edaba99da3a9c84000003b/train/javascript)
 * [<s>What's up next?</s>](https://www.codewars.com/kata/542ebbdb494db239f8000046/train/javascript)
 * [<s>Even or Odd</s>](https://www.codewars.com/kata/53da3dbb4a5168369a0000fe/train/javascript)
-* [String Repeat](https://www.codewars.com/kata/57a0e5c372292dd76d000d7e/train/javascript)
+* [<s>String Repeat</s>](https://www.codewars.com/kata/57a0e5c372292dd76d000d7e/train/javascript)
 * [Remove First and Last Character](https://www.codewars.com/kata/56bc28ad5bdaeb48760009b0/train/javascript)
 * [Sum of positive](https://www.codewars.com/kata/5715eaedb436cf5606000381/train/javascript)
 * [Find the smallest integer in the array](https://www.codewars.com/kata/55a2d7ebe362935a210000b2/train/javascript)
