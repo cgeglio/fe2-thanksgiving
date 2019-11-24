@@ -37,7 +37,7 @@ Some instructions are written very well, others are a bit more confusing to foll
 * [<s>Even or Odd</s>](https://www.codewars.com/kata/53da3dbb4a5168369a0000fe/train/javascript)
 * [<s>String Repeat</s>](https://www.codewars.com/kata/57a0e5c372292dd76d000d7e/train/javascript)
 * [<s>Remove First and Last Character</s>](https://www.codewars.com/kata/56bc28ad5bdaeb48760009b0/train/javascript)
-* [Sum of positive](https://www.codewars.com/kata/5715eaedb436cf5606000381/train/javascript)
+* [<s>Sum of positive</s>](https://www.codewars.com/kata/5715eaedb436cf5606000381/train/javascript)
 * [Find the smallest integer in the array](https://www.codewars.com/kata/55a2d7ebe362935a210000b2/train/javascript)
 * [Remove String Spaces](https://www.codewars.com/kata/57eae20f5500ad98e50002c5/train/javascript)
 * [Counting sheep...](https://www.codewars.com/kata/54edbc7200b811e956000556/train/javascript)
