@@ -40,7 +40,7 @@ Some instructions are written very well, others are a bit more confusing to foll
 * [<s>Sum of positive</s>](https://www.codewars.com/kata/5715eaedb436cf5606000381/train/javascript)
 * [<s>Find the smallest integer in the array</s>](https://www.codewars.com/kata/55a2d7ebe362935a210000b2/train/javascript)
 * [<s>Remove String Spaces</s>](https://www.codewars.com/kata/57eae20f5500ad98e50002c5/train/javascript)
-* [Counting sheep...](https://www.codewars.com/kata/54edbc7200b811e956000556/train/javascript)
+* [<s>Counting sheep...</s>](https://www.codewars.com/kata/54edbc7200b811e956000556/train/javascript)
 * [Grasshopper - Summation](https://www.codewars.com/kata/55d24f55d7dd296eb9000030/train/javascript)
 * [Convert number to reversed array of digits](https://www.codewars.com/kata/5583090cbe83f4fd8c000051/train/javascript)
 * [A Needle in the Haystack](https://www.codewars.com/kata/56676e8fabd2d1ff3000000c/train/javascript)
