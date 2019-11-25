@@ -43,7 +43,7 @@ Some instructions are written very well, others are a bit more confusing to foll
 * [<s>Counting sheep...</s>](https://www.codewars.com/kata/54edbc7200b811e956000556/train/javascript)
 * [<s>Grasshopper - Summation</s>](https://www.codewars.com/kata/55d24f55d7dd296eb9000030/train/javascript)
 * [<s>Convert number to reversed array of digits</s>](https://www.codewars.com/kata/5583090cbe83f4fd8c000051/train/javascript)
-* [A Needle in the Haystack](https://www.codewars.com/kata/56676e8fabd2d1ff3000000c/train/javascript)
+* [<s>A Needle in the Haystack</s>](https://www.codewars.com/kata/56676e8fabd2d1ff3000000c/train/javascript)
 * [Calculate average](https://www.codewars.com/kata/57a2013acf1fa5bfc4000921/train/javascript)
 * [Century From Year](https://www.codewars.com/kata/5a3fe3dde1ce0e8ed6000097/train/javascript)
 * [Rock Paper Scissors!](https://www.codewars.com/kata/5672a98bdbdd995fad00000f/train/javascript)
