@@ -49,7 +49,7 @@ Some instructions are written very well, others are a bit more confusing to foll
 * [<s>Rock Paper Scissors!</s>](https://www.codewars.com/kata/5672a98bdbdd995fad00000f/train/javascript)
 * [<s>Square(n) Sum</s>](https://www.codewars.com/kata/515e271a311df0350d00000f/train/javascript)
 * [<s>DNA to RNA Conversion</s>](https://www.codewars.com/kata/5556282156230d0e5e000089/train/javascript)
-* [The Feast of Many Beasts](https://www.codewars.com/kata/5aa736a455f906981800360d/train/javascript)
+* [<s>The Feast of Many Beasts</s>](https://www.codewars.com/kata/5aa736a455f906981800360d/train/javascript)
 * [Beginner - Lost Without a Map](https://www.codewars.com/kata/57f781872e3d8ca2a000007e/train/javascript)
 * [Correct the mistakes of the character recognition software](https://www.codewars.com/kata/577bd026df78c19bca0002c0/train/javascript)
 * [Sentence Smash](https://www.codewars.com/kata/53dc23c68a0c93699800041d/train/javascript)
