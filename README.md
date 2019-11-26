@@ -45,7 +45,7 @@ Some instructions are written very well, others are a bit more confusing to foll
 * [<s>Convert number to reversed array of digits</s>](https://www.codewars.com/kata/5583090cbe83f4fd8c000051/train/javascript)
 * [<s>A Needle in the Haystack</s>](https://www.codewars.com/kata/56676e8fabd2d1ff3000000c/train/javascript)
 * [<s>Calculate average</s>](https://www.codewars.com/kata/57a2013acf1fa5bfc4000921/train/javascript)
-* [Century From Year](https://www.codewars.com/kata/5a3fe3dde1ce0e8ed6000097/train/javascript)
+* [<s>Century From Year</s>](https://www.codewars.com/kata/5a3fe3dde1ce0e8ed6000097/train/javascript)
 * [Rock Paper Scissors!](https://www.codewars.com/kata/5672a98bdbdd995fad00000f/train/javascript)
 * [Square(n) Sum](https://www.codewars.com/kata/515e271a311df0350d00000f/train/javascript)
 * [DNA to RNA Conversion](https://www.codewars.com/kata/5556282156230d0e5e000089/train/javascript)
