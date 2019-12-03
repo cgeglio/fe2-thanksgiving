@@ -55,8 +55,8 @@ Some instructions are written very well, others are a bit more confusing to foll
 * [<s>Sentence Smash</s>](https://www.codewars.com/kata/53dc23c68a0c93699800041d/train/javascript)
 * [<s>Cat years, Dog years</s>](https://www.codewars.com/kata/5a6663e9fd56cb5ab800008b/train/javascript)
 * [<s>Beginner - Reduce but Grow</s>](https://www.codewars.com/kata/57f780909f7e8e3183000078/train/javascript)
-* [Beginner Series #2 Clock](https://www.codewars.com/kata/55f9bca8ecaa9eac7100004a/train/javascript)
-* [Sort and Star](https://www.codewars.com/kata/57cfdf34902f6ba3d300001e/train/javascript)
+* [<s>Beginner Series #2 Clock</s>](https://www.codewars.com/kata/55f9bca8ecaa9eac7100004a/train/javascript)
+* [<s>Sort and Star</s>](https://www.codewars.com/kata/57cfdf34902f6ba3d300001e/train/javascript)
 * [<s>Array plus array</s>](https://www.codewars.com/kata/5a2be17aee1aaefe2a000151/train/javascript)
 
 ### Level 7
