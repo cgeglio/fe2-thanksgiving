@@ -63,8 +63,8 @@ Some instructions are written very well, others are a bit more confusing to foll
 
 * [<s>Get the Middle Character</s>](https://www.codewars.com/kata/56747fd5cb988479af000028/train/javascript)
 * [<s>Vowel Count</s>](https://www.codewars.com/kata/54ff3102c1bad923760001f3/train/javascript)
-* [Highest and Lowest](https://www.codewars.com/kata/554b4ac871d6813a03000035/train/javascript)
-* [Shortest Word](https://www.codewars.com/kata/57cebe1dc6fdc20c57000ac9/train/javascript)
+* [<s>Highest and Lowest</s>](https://www.codewars.com/kata/554b4ac871d6813a03000035/train/javascript)
+* [<s>Shortest Word</s>](https://www.codewars.com/kata/57cebe1dc6fdc20c57000ac9/train/javascript)
 * [Descending Order](https://www.codewars.com/kata/5467e4d82edf8bbf40000155/train/javascript)
 * [Disemvowel Trolls](https://www.codewars.com/kata/52fba66badcd10859f00097e/train/javascript)
 * [Jaden Casing Strings](https://www.codewars.com/kata/5390bac347d09b7da40006f6/train/javascript)
