@@ -73,7 +73,7 @@ Some instructions are written very well, others are a bit more confusing to foll
 * [<s>Credit Card Mask</s>](https://www.codewars.com/kata/5412509bd436bd33920011bc/train/javascript)
 * [<s>Categorize New Member</s>](https://www.codewars.com/kata/5502c9e7b3216ec63c0001aa/train/javascript)
 * [<s>Number of People in the Bus</s>](https://www.codewars.com/kata/5648b12ce68d9daa6b000099/train/javascript)
-* [Remove the minimum](https://www.codewars.com/kata/563cf89eb4747c5fb100001b/train/javascript)
+* [<s>Remove the minimum</s>](https://www.codewars.com/kata/563cf89eb4747c5fb100001b/train/javascript)
 * [<s>Find how many times did a team from a given country win the Champions League?</s>](https://www.codewars.com/kata/581b30af1ef8ee6aea0015b9/train/javascript)
 * [Two fighters, one winner.](https://www.codewars.com/kata/577bd8d4ae2807c64b00045b/train/javascript)
 * [Reverse words](https://www.codewars.com/kata/5259b20d6021e9e14c0010d4/train/javascript) Try to do this without using `.reverse()`
