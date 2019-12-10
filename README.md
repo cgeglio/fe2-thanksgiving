@@ -87,7 +87,7 @@ Some instructions are written very well, others are a bit more confusing to foll
 * [Tootsie Pop](https://www.codewars.com/kata/80-s-kids-number-1-how-many-licks-does-it-take/train/javascript)
 * [Interactive Dictionary](https://www.codewars.com/kata/interactive-dictionary/train/javascript)
 * [Sorted? yes? no? how?](https://www.codewars.com/kata/580a4734d6df748060000045/train/javascript)
-* [Find the capitals](https://www.codewars.com/kata/539ee3b6757843632d00026b/train/javascript)
+* [<s>Find the capitals</s>](https://www.codewars.com/kata/539ee3b6757843632d00026b/train/javascript)
 
 
 
