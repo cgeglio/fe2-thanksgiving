@@ -84,7 +84,7 @@ Some instructions are written very well, others are a bit more confusing to foll
 * [Is Ruby Coming?](https://www.codewars.com/kata/coding-meetup-number-3-higher-order-functions-series-is-ruby-coming/train/javascript)
 * [Greet Developers](https://www.codewars.com/kata/coding-meetup-number-2-higher-order-functions-series-greet-developers/train/javascript)
 * [JavaScript Developers](https://www.codewars.com/kata/coding-meetup-number-1-higher-order-functions-series-count-the-number-of-javascript-developers-coming-from-europe/train/javascript)
-* [Tootsie Pop](https://www.codewars.com/kata/80-s-kids-number-1-how-many-licks-does-it-take/train/javascript)
+* [<s>Tootsie Pop</s>](https://www.codewars.com/kata/80-s-kids-number-1-how-many-licks-does-it-take/train/javascript)
 * [<s>Interactive Dictionary</s>](https://www.codewars.com/kata/interactive-dictionary/train/javascript)
 * [<s>Sorted? yes? no? how?</s>](https://www.codewars.com/kata/580a4734d6df748060000045/train/javascript)
 * [<s>Find the capitals</s>](https://www.codewars.com/kata/539ee3b6757843632d00026b/train/javascript)
