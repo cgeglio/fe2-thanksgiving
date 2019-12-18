@@ -78,8 +78,8 @@ Some instructions are written very well, others are a bit more confusing to foll
 * [<s>Two fighters, one winner.</s>](https://www.codewars.com/kata/577bd8d4ae2807c64b00045b/train/javascript)
 * [Reverse words](https://www.codewars.com/kata/5259b20d6021e9e14c0010d4/train/javascript) Try to do this without using `.reverse()`
 * [Maximum Length Difference](https://www.codewars.com/kata/5663f5305102699bad000056/train/javascript)
-* [Sort array by string length](https://www.codewars.com/kata/57ea5b0b75ae11d1e800006c/train/javascript)
-* [Alphabet War](https://www.codewars.com/kata/alphabet-war/train/javascript)
+* [<s>Sort array by string length</s>](https://www.codewars.com/kata/57ea5b0b75ae11d1e800006c/train/javascript)
+* [<s>Alphabet War</s>](https://www.codewars.com/kata/alphabet-war/train/javascript)
 * [<s>Rock Off!</s>](https://www.codewars.com/kata/rock-off/train/javascript)
 * [<s>Is Ruby Coming?</s>](https://www.codewars.com/kata/coding-meetup-number-3-higher-order-functions-series-is-ruby-coming/train/javascript)
 * [<s>Greet Developers</s>](https://www.codewars.com/kata/coding-meetup-number-2-higher-order-functions-series-greet-developers/train/javascript)
